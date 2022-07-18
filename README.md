@@ -1,22 +1,22 @@
-# FAITH LIGHT
+## FAITH LIGHT
 ![logofl](Creditbanner.png)
 Pilih karaktermu dan tentukan jalan ceritanya di Faith Light 
 permainan website berbasis teks yang sangat sederhana.
 
-# **WARNING**
+## **WARNING**
 >*"Demi kenyamanan bermain FAITH LIGHT belum mendukung tampilan di desktop,laptop,tab landscape,notebook,TV.harap gunakan smartphone/mobile phone"*
 # Tentang Faith Light
 Faith Light adalah permainan adventure sederhana berbasis teks yang dapat 
 dimainkan di browser kapanpun dan dimanpun.Faith light berfokus
 pada jalan cerita karaktermu setiap kalimat yang kamu pilih akan menentukan nasib dari karaktermu.
 
-# Dibangun Dengan
+## Dibangun Dengan
 - [HTML](https://id.m.wikipedia.org/wiki/HTML)
 - [CSS](https://id.m.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [BOOTSTRAP](https://id.m.wikipedia.org/wiki/Bootstrap_(kerangka_kerja))
 - [JAVASRCIPT](https://id.m.wikipedia.org/wiki/JavaScript)
 
-# Memulai
+## Memulai
 **Prasyarat**
 1. **Disarankan menggunakan mobile phone.**
 2. Memiliki akses ke `NETWORK` yang stabil.
@@ -31,10 +31,10 @@ pada jalan cerita karaktermu setiap kalimat yang kamu pilih akan menentukan nasi
 5. Klik **KEMBALI** jika ingin mengganti karakter.
 6. Terakhir klik **Selesai dan bermain**.
 
-# Berkontribusi
+## Berkontribusi
 Kontribusi pengguna adalah inti dari komunitas open source. hal ini yang membuat komunitas open source menjadi tempat yang tepat untuk belajar, dan berkarya. setiap kontribusi yang kamu buat sangat diapresiasi.
 
-# Lisensi
+## Lisensi
 Didistribusikan di bawah Lisensi MIT.
 
 
