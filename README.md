@@ -11,7 +11,7 @@ dimainkan di browser kapanpun dan dimanpun.Faith light berfokus
 pada jalan cerita karaktermu setiap kalimat yang kamu pilih akan menentukan nasib dari karaktermu.
 
 # Dibangun Dengan
-- HTML
+- [HTML](https://id.m.wikipedia.org/wiki/HTML)
 - CSS
 - BOOTSTRAP
 - JAVASRCIPT
