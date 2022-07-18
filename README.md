@@ -12,7 +12,7 @@ pada jalan cerita karaktermu setiap kalimat yang kamu pilih akan menentukan nasi
 
 # Dibangun Dengan
 - [HTML](https://id.m.wikipedia.org/wiki/HTML)
-- CSS
+- [CSS](https://id.m.wikipedia.org/wiki/Cascading_Style_Sheets)
 - BOOTSTRAP
 - JAVASRCIPT
 
