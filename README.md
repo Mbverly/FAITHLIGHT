@@ -36,7 +36,7 @@ Kontribusi pengguna adalah inti dari komunitas open source. hal ini yang membuat
 
 ## Lisensi
 Didistribusikan di bawah Lisensi MIT.
-Lihat  [`LICENSE`](LICENSE)  untuk informasi lebih lanjut.
+Lihat  `LICENSE`(LICENSE)  untuk informasi lebih lanjut.
 
 
 
