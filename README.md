@@ -17,12 +17,12 @@ pada jalan cerita karaktermu setiap kalimat yang kamu pilih akan menentukan nasi
 - JAVASRCIPT
 
 # Memulai
-#### Prasyarat
+**Prasyarat**
 1. **Disarankan menggunakan mobile phone.**
 2. Memiliki akses ke `NETWORK` yang stabil.
 3. Disarankan Gunakan browser versi terbaru.
 
-#### Start
+**Start**
 1. Masuk halaman homepage FAITH LIGHT/`index.html`.
 2. Tidak diperlukan Masuk atau Daftar.
 2. Klik **PLAY**.
