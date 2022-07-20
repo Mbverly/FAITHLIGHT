@@ -5,7 +5,7 @@ permainan website berbasis teks yang sangat sederhana.
 
 ## **WARNING**
 >*"Demi kenyamanan bermain FAITH LIGHT belum mendukung tampilan di desktop,laptop,tab landscape,notebook,TV.harap gunakan smartphone/mobile phone"*
-# Tentang Faith Light
+## Tentang Faith Light
 Faith Light adalah permainan adventure sederhana berbasis teks yang dapat 
 dimainkan di browser kapanpun dan dimanpun.Faith light berfokus
 pada jalan cerita karaktermu setiap kalimat yang kamu pilih akan menentukan nasib dari karaktermu.
