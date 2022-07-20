@@ -1,5 +1,5 @@
 ## FAITH LIGHT
-![logofl](Creditbanner.png)
+![logofl](/Img/Creditbanner.png)
 Pilih karaktermu dan tentukan jalan ceritanya di Faith Light 
 permainan website berbasis teks yang sangat sederhana.
 
